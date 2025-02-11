@@ -1,0 +1,3 @@
+[MONGO]
+uri = mongodb+srv://avinjaymewada25:1wKVfxoZizex5R2s@cluster0.k6qhq.mongodb.net/
+
